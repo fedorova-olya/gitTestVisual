@@ -4,3 +4,7 @@ body{
 p{
     color: #e2215b;
 }
+h1{
+    background: #222;
+    font-size: 45px;
+}
